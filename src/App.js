@@ -7,7 +7,7 @@ import SignIn from './ui/auth/sign-in/SignIn';
 import SignUp from './ui/auth/sign-up/SignUp';
 import Dashboard from './ui/dashboard/Dashboard'
 
-function App() {
+const App = () => {
 
   // Splash screen timeout
   const splashTimeout = 3000;
